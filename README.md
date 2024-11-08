@@ -1,1 +1,3 @@
 # My-1st-Project
+Abstract:
+This project aims at developing a C++ program that is capable of processing several test cases where each case deals with obtaining a matrix of integers and performing the calculation on the row with the maximum sum. The program will be reading input: the number of test cases, the size of the matrices, and finally the elements of each matrix. It calculates the sum of elements in each row for every matrix and finds the row index having a maximum sum, printing this index for every test case. This function will be very helpful in a situation where one needs to analyze data across the rows, like in data analysis or any other computational mathematics.
